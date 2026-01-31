@@ -69,6 +69,13 @@
 			</snapshots>
 		</repository>
 	</repositories>
-
+<!--Adding this to run action pipeline-->
+<distributionManagement>
+    <repository>
+        <id>github</id>
+        <name>GitHub Packages</name>
+        <url>https://maven.pkg.github.com/brajendra/config-server</url>
+    </repository>
+</distributionManagement>
 
 </project>
