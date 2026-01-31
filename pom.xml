@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.bksoft</groupId>
+	<groupId>bksoft</groupId>
 	<artifactId>config-server</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
@@ -74,7 +74,7 @@
     <repository>
         <id>github</id>
         <name>GitHub Packages</name>
-        <url>https://maven.pkg.github.com/brajendra/config-server</url>
+        <url>https://maven.pkg.github.com/bksoft/config-server</url>
     </repository>
 </distributionManagement>
 
